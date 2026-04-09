@@ -18,7 +18,6 @@ conferences = {
     "Thunder":"West","Spurs":"West","Raptors":"East","Knicks":"East"
 }
 
-
 seasons = ["2019-20","2020-21","2021-22","2022-23","2023-24"]
 
 # Team season stats
